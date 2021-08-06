@@ -8,15 +8,15 @@
 
 - 🌱 I’m currently learning **Full Stack Technologies.**
 
-- 👨‍💻 All of my projects are available on **[My Github Repositories](https://github.com/AymaneLk?tab=repositories)**
+- 👨‍💻 All of my projects are available on **[My Github Repositories](https://github.com/SithumDev07?tab=repositories)**
 
-- 📫 How to reach me **[Facebook](https://facebook.com/Aymane.Lkhawa.125)**
+- 📫 How to reach me **[Facebook](https://www.facebook.com/nowty.sithum.9)**
 
 - ⚡ Fun fact **I sometimes travel**
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SithumDev07&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SithumDev07&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sithum's Github Stats">
 
 ## 🚀 Languages and Tools:
 
@@ -27,12 +27,11 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
     <a href="https://www.sass-lang.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>  
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>   
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a> 
+    <a href="https://https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>   
+    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> </a> 
+    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/glyph-neue/64/000000/php.png"/> </a> 
 </p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
 <p align="center">
