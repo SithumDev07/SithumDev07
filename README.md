@@ -48,7 +48,7 @@
 
 
 <br/>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SithumDev07&show_icons=true&include_all_commits&count_private&theme=radical)
+    
 
 <br/>
 
