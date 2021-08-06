@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://www.facebook.com/photo.php?fbid=1108807952899766&set=pb.100013117152605.-2207520000..&type=3" height="175px"/></a>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sithum</h1>
 <h3 align="center">I'm a passionate Front End Developer.</h3>
