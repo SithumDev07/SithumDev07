@@ -21,7 +21,7 @@
     **GitHub Stats**
 <br />
 <br />
-<a href="https://github.com/ritesh-sharma33">
+<a href="https://github.com/SithumDev07">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SithumDev07&hide=jupyter%20notebook&show_icons=true&theme=radical" alt="Sithum's github stats"/></a>
 </div>
 
