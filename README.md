@@ -44,7 +44,7 @@
     <a href="[https://www.cprogramming.com/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=typescript&sort=)" target="_blank"> <img src="https://img.icons8.com/bubbles/344/android-os.png"/> </a> 
    <a href="[https://www.cprogramming.com/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=typescript&sort=)" target="_blank"> <img src="https://img.icons8.com/color/344/mysql-logo.png"/> </a> 
    <a href="[https://www.cprogramming.com/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=typescript&sort=)" target="_blank"> <img src="https://img.icons8.com/color/344/mongodb.png"/> </a> 
-   <a href="[https://www.cprogramming.com/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=typescript&sort=)" target="_blank"> <img src="https://img.icons8.com/color/344/figma--v1.png"/> </a> 
+   <a href="[https://www.cprogramming.com/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=typescript&sort=)" target="_blank"> <img src="https://img.icons8.com/color/344/figma--v1.png" width="20px" height="20px" /> </a> 
 </p>
 <br/>
 
