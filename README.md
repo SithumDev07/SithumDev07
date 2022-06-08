@@ -30,21 +30,21 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="[https://reactjs.org/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=typescript&sort=)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="[https://reactjs.org/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=typescript&sort=)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40px" height="40px" /> </a>
     <a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://github.com/SithumDev07?tab=repositories&q=&type=&language=javascript&sort=)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="[https://www.w3.org/html/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=html&sort=)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="[https://www.w3schools.com/css/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=css&sort=)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="[https://www.sass-lang.com](https://github.com/SithumDev07?tab=repositories&q=&type=&language=scss&sort=)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>  
-    <a href="[https://www.python.org](https://github.com/SithumDev07?tab=repositories&q=&type=&language=typescript&sort=)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>  
-    <a href="[https://www.cprogramming.com/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=typescript&sort=)" target="_blank"> <img src="https://img.icons8.com/office/344/react.png"/> </a>
-   <a href="[https://www.cprogramming.com/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=typescript&sort=)" target="_blank"> <img src="https://img.icons8.com/color/344/graphql.png"/> </a>
-   <a href="[https://www.cprogramming.com/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=typescript&sort=)" target="_blank"> <img src="https://img.icons8.com/fluency/344/gatsbyjs.png"/> </a> 
-   <a href="[https://www.cprogramming.com/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=typescript&sort=)" target="_blank"> <img src="https://img.icons8.com/officel/344/php-logo.png"/> </a> 
-   <a href="[https://www.cprogramming.com/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=typescript&sort=)" target="_blank"> <img src="https://img.icons8.com/color/344/flutter.png"/> </a> 
-    <a href="[https://www.cprogramming.com/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=typescript&sort=)" target="_blank"> <img src="https://img.icons8.com/bubbles/344/android-os.png"/> </a> 
-   <a href="[https://www.cprogramming.com/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=typescript&sort=)" target="_blank"> <img src="https://img.icons8.com/color/344/mysql-logo.png"/> </a> 
-   <a href="[https://www.cprogramming.com/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=typescript&sort=)" target="_blank"> <img src="https://img.icons8.com/color/344/mongodb.png"/> </a> 
-   <a href="[https://www.cprogramming.com/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=typescript&sort=)" target="_blank"> <img src="https://img.icons8.com/color/344/figma--v1.png" width="20px" height="20px" /> </a> 
+    <a href="[https://www.w3.org/html/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=html&sort=)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="40px" height="40px" /> </a> 
+    <a href="[https://www.w3schools.com/css/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=css&sort=)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="40px" height="40px" /> </a> 
+    <a href="[https://www.sass-lang.com](https://github.com/SithumDev07?tab=repositories&q=&type=&language=scss&sort=)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png" width="40px" height="40px" /> </a>  
+    <a href="[https://www.python.org](https://github.com/SithumDev07?tab=repositories&q=&type=&language=typescript&sort=)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png" width="40px" height="40px" /> </a>  
+    <a href="[https://www.cprogramming.com/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=typescript&sort=)" target="_blank"> <img src="https://img.icons8.com/office/344/react.png" width="40px" height="40px" /> </a>
+   <a href="[https://www.cprogramming.com/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=typescript&sort=)" target="_blank"> <img src="https://img.icons8.com/color/344/graphql.png" width="40px" height="40px" /> </a>
+   <a href="[https://www.cprogramming.com/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=typescript&sort=)" target="_blank"> <img src="https://img.icons8.com/fluency/344/gatsbyjs.png" width="40px" height="40px" /> </a> 
+   <a href="[https://www.cprogramming.com/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=typescript&sort=)" target="_blank"> <img src="https://img.icons8.com/officel/344/php-logo.png" width="40px" height="40px" /> </a> 
+   <a href="[https://www.cprogramming.com/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=typescript&sort=)" target="_blank"> <img src="https://img.icons8.com/color/344/flutter.png" width="40px" height="40px" /> </a> 
+    <a href="[https://www.cprogramming.com/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=typescript&sort=)" target="_blank"> <img src="https://img.icons8.com/bubbles/344/android-os.png" width="40px" height="40px" /> </a> 
+   <a href="[https://www.cprogramming.com/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=typescript&sort=)" target="_blank"> <img src="https://img.icons8.com/color/344/mysql-logo.png" width="40px" height="40px" /> </a> 
+   <a href="[https://www.cprogramming.com/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=typescript&sort=)" target="_blank"> <img src="https://img.icons8.com/color/344/mongodb.png" width="40px" height="40px" /> </a> 
+   <a href="[https://www.cprogramming.com/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=typescript&sort=)" target="_blank"> <img src="https://img.icons8.com/color/344/figma--v1.png" width="40px" height="40px" /> </a> 
 </p>
 <br/>
 
