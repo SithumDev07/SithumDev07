@@ -2,10 +2,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sithum</h1>
 <h3 align="center">I'm a passionate Full-Stack Developer.</h3>
-<div align="center">
-<a href="https://app.daily.dev/SithumDev07"><img src="https://api.daily.dev/devcards/be6b2efeb5e6450b8dd56c0afb02d0ad.png?r=lf1" width="400" alt="Sithum Dasantha's Dev Card"/></a>
-</div>
-
 
 ## 🙋‍♂️ About Me
 
