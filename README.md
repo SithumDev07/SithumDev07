@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available on **[My Github Repositories](https://github.com/SithumDev07?tab=repositories)**
 
-- 📫 How to reach me **[Twitter]([https://www.facebook.com/nowty.sithum.9](https://www.instagram.com/sithum_d_basnayake/))**
+- 📫 How to reach me **[Email](mailto:sithum.dashantha@gmail.com)**
 
 - ⚡ Fun fact **I sometimes travel**
 
