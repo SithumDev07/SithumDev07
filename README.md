@@ -25,7 +25,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
     <a href="[https://reactjs.org/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=typescript&sort=)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40px" height="40px" /> </a>
     <a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://github.com/SithumDev07?tab=repositories&q=&type=&language=javascript&sort=)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="[https://www.w3.org/html/](https://github.com/SithumDev07?tab=repositories&q=&type=&language=html&sort=)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="40px" height="40px" /> </a> 
@@ -70,7 +70,7 @@
 <br/>
 
 ## Connect with me:
-<p align="left">
+<p align="center">
 
 
 <a href = "https://twitter.com/DasanthaSithum"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="50px" height="50px" /></a>
